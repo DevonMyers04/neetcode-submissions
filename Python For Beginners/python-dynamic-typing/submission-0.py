@@ -1,0 +1,10 @@
+variable=2
+print(type(variable))
+variable=2.2
+print(type(variable))
+variable=True
+print(type(variable))
+variable="doe"
+print(type(variable))
+variable=[2,5]
+print(type(variable))
