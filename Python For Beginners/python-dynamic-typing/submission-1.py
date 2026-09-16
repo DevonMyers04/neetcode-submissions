@@ -1,0 +1,10 @@
+variable=4
+print(type(variable))
+variable=4.4
+print(type(variable))
+variable=False
+print(type(variable))
+variable="sdlj"
+print(type(variable))
+variable=[4,3]
+print(type(variable))
